@@ -1,3 +1,5 @@
+// Space complexity is O(N)
+// Time complexity is O(1) for each operation as we are inserting at the start and removing from the start and we have reference of the root node.
 class StackAsLinkedList {
   
     StackNode root; 
