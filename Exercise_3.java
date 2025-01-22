@@ -1,3 +1,6 @@
+// Space complexity is O(n)
+// Time complexity O(1) best case and worst case or avergae O(N)
+
 import java.io.*; 
   
 // Java program to implement 
