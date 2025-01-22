@@ -1,6 +1,7 @@
 class Stack {
     //Please read sample.java file before starting.
     //Kindly include Time and Space complexity at top of each file
+    // Time complexity is O(1) for each operation
 
     static final int MAX = 1000;
     int top;
